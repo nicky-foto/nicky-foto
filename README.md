@@ -1,16 +1,19 @@
-## Hi there 👋
+# สวัสดีครับ/ค่ะ! 👋 ยินดีต้อนรับสู่โปรไฟล์ของฉัน!
 
-<!--
-**nicky-foto/nicky-foto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ฉันคือ NickyFoto, DevOps Engineer ที่มีความหลงใหลในการปรับปรุงกระบวนการ CI/CD และการจัดการ Infrastructure อย่างมีประสิทธิภาพ
 
-Here are some ideas to get you started:
+- 💼 ตำแหน่ง: DevOps Engineer โรงพยาบาลมหาวิทยาลัยแม่ฟ้าหลวง
+- 🌱 กำลังเรียนรู้เพิ่มเติมเกี่ยวกับ: **Kubernetes**, **Terraform**, **Ansible**, **AWS**, **GCP**
+- ⚡ สิ่งที่ถนัด: **Automation**, **Containerization**, **Cloud Infrastructure**, **Jenkins**
+- 🛠️ เครื่องมือที่ใช้เป็นประจำ:  
+    - **CI/CD**: Jenkins, GitLab CI, GitHub Actions  
+    - **Cloud Providers**: AWS, Google Cloud Platform, Azure  
+    - **Containers**: Docker, Kubernetes  
+    - **Configuration Management**: Terraform, Ansible  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My DevOps Toolbox:
+```bash
+💻  OS:        Linux, Windows
+🔧  Tools:     Jenkins, Docker, Kubernetes, Terraform, Ansible
+☁️  Cloud:     AWS, GCP, Azure
+📦  Containers: Docker, Kubernetes

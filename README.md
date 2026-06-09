@@ -117,5 +117,5 @@ Engineer's degree · 2011 – 2015
 - 💼 LinkedIn: [Supachok Doungchan](https://www.linkedin.com/in/supachok-doungchan-0a9a4763/)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NickyFoto&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nicky-foto&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
